@@ -1,0 +1,13 @@
+
+************************************************************************************************************************************
+
+In Munchkin, you're a fantasy hero kicking down doors in a dungeon, looking for monsters to bash and Treasures to grab. 
+You level up each time you kill a monster. 
+Reach Level 10, and you win! 
+But watch out – other players mights stab you in the back at any moment!
+
+On your turn, you kick down the door by drawing and revealing the top Door card. 
+Compare your Level and bonuses against the monster; if your total is bigger or equal, you win!
+The fight isn't over until you decide to Run Away.
+
+************************************************************************************************************************************
